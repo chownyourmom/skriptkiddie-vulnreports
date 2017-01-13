@@ -42,6 +42,5 @@
     {
       "plan": "sendgrid:starter"
     }
-  ],
-  "stack": "heroku-16"
+  ]
 }
